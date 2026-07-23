@@ -32,10 +32,3 @@ File thuyết trình tóm tắt lại toàn bộ quy trình, kết quả phân t
 *   Xây dựng được chân dung khách hàng mục tiêu giúp tối ưu chi phí Marketing.
 *   Đưa ra lộ trình cải thiện vận hành dựa trên các con số biết nói.
 
-## 📂 Cấu trúc thư mục dự án trên GitHub
-```text
-├── Data/                   # Dữ liệu nguồn (Raw & Cleaned)
-├── Notebooks/              # Link/File mã nguồn Python (Colab)
-├── Dashboard/              # File Power BI (.pbix) hoặc ảnh chụp Dashboard
-├── Presentation/           # File báo cáo PowerPoint
-└── README.md               # Giới thiệu dự án
