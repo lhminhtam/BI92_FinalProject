@@ -25,7 +25,7 @@ Dữ liệu sau khi xử lý được đưa vào Power BI để xây dựng các
 
 ### 3. Báo cáo chiến lược (Presentation)
 File thuyết trình tóm tắt lại toàn bộ quy trình, kết quả phân tích và các đề xuất cải thiện cụ thể cho doanh nghiệp.
-*   **Xem bài thuyết trình tại:** [Google Drive Presentation](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+*   **Xem bài thuyết trình tại:** [Google Drive Presentation](https://drive.google.com/file/d/13urD2wuhE2JiFb9WqGf1FykpXE9LQfvP/view?usp=sharing)
 
 ## 📊 Kết quả dự kiến
 *   Xác định được các yếu tố chính gây ra sự biến động/không ổn định trong doanh thu.
